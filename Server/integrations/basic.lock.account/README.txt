@@ -2,7 +2,7 @@
 This is person authentication module for oxAuth which do basic authentication.
 It looks user account after specified number of unsuccessful login attempts.
 
-This module has 2 properties:
+This module has 3 properties:
 
 1) invalid_login_count_attribute - Specify attribute where script stores count of invalid number of login attemps
    Default value: oxCountInvalidLogin
